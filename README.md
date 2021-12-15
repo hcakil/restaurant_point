@@ -10,7 +10,7 @@ project Video Review Link:
 [VideoLink](https://digitalpratix.com/wp-content/uploads/2021-12-15-13.05.19.mp4)
 
 
-![2021-12-15 13 10 37](https://user-images.githubusercontent.com/48150826/146167370-42726810-5fee-4bb7-a60b-70bb2f33f925.jpg=150x550)
+![2021-12-15 13 10 37](https://user-images.githubusercontent.com/48150826/146167370-42726810-5fee-4bb7-a60b-70bb2f33f925.jpg=250x950)
 ![2021-12-15 13 10 43](https://user-images.githubusercontent.com/48150826/146167380-dc00fb15-dd34-4582-8aa9-beda3dc59415.jpg)
 ![2021-12-15 13 10 47](https://user-images.githubusercontent.com/48150826/146167383-6b5df8e0-51df-4462-812e-371f37d35215.jpg)
 ![2021-12-15 13 10 51](https://user-images.githubusercontent.com/48150826/146167387-4d7376ef-261e-4c61-9874-fedbc5c0c916.jpg)
