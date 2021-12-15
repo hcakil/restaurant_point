@@ -11,7 +11,6 @@ project Video Review Link:
 
 
 ![2021-12-15 13 10 37](https://user-images.githubusercontent.com/48150826/146167370-42726810-5fee-4bb7-a60b-70bb2f33f925.jpg)
-![2021-12-15 13 10 43](https://user-images.githubusercontent.com/48150826/146167380-dc00fb15-dd34-4582-8aa9-beda3dc59415.jpg)
 ![2021-12-15 13 10 47](https://user-images.githubusercontent.com/48150826/146167383-6b5df8e0-51df-4462-812e-371f37d35215.jpg)
 ![2021-12-15 13 10 51](https://user-images.githubusercontent.com/48150826/146167387-4d7376ef-261e-4c61-9874-fedbc5c0c916.jpg)
 ![2021-12-15 13 10 55](https://user-images.githubusercontent.com/48150826/146167388-c86ff7c9-b13b-45d7-b346-d1c817d0a0a3.jpg)
