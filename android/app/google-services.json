@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "656277136376",
+    "project_id": "restaurant-point-cc590",
+    "storage_bucket": "restaurant-point-cc590.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656277136376:android:98a43974b2eaa6b972ac0d",
+        "android_client_info": {
+          "package_name": "com.digitalpratix.restaurantpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656277136376-frcfkkohp4fflu2gqinsklaa0urtb56k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitalpratix.restaurantpoint",
+            "certificate_hash": "5b5c3af15f95a78c9ae414f031cdb7c86b6a232f"
+          }
+        },
+        {
+          "client_id": "656277136376-b8p90pp6eb29fr5ekptu8geld838v5mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9UljBOPRAt2Jjf4hLfXj6gfr2smGb_RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656277136376-b8p90pp6eb29fr5ekptu8geld838v5mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
